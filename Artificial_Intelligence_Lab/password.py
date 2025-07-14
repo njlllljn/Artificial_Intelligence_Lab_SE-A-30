@@ -1,1 +1,1 @@
-print("Password : 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")
+print("Password : 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")
